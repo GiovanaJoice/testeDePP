@@ -1,4 +1,4 @@
-## SPRINT 01 - PRODUCT BACK LOG (16/03)
+## <p align="center"> SPRINT 01 - PRODUCT BACK LOG (16/03) 📝 </p>
 
 ## <img src="/ReadmeProjeto/alvo.gif" alt="Logo" height="58"> Metas - O que deveria ser feito nessa sprint?
 
