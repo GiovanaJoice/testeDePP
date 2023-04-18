@@ -24,7 +24,7 @@
 
 ## 📚 Considerações:
 
-> Nesta sprint conseguimos: definir claramento o tema do nosso projeto e previamente as tecnologias que utilizaríamos; criamos um readme para o perfil da empresa no GitHub de forma satisfatória; entregamos também um protótipo de sistema de login mas que, por hora, ainda não havia sido integrado com o desenvolvimento de telas; moldamos melhor o design e a paleta de cores futuramente utilizadas e conseguimos chegar semi-final do nosso mockup no figma (faltavam alguns poucos acabamentos)
+> Nesta sprint conseguimos: definir claramento o tema do nosso projeto e previamente as tecnologias que utilizaríamos; criamos um readme para o perfil da empresa no GitHub de forma satisfatória; entregamos também um protótipo de sistema de login mas que, por hora, ainda não havia sido integrado com o desenvolvimento de telas; moldamos melhor o design e a paleta de cores futuramente utilizadas e conseguimos chegar semi-final do nosso mockup no figma (faltavam alguns poucos acabamentos). Para testes, baixe o código contido nessa pasta.
 
 <br/>
 
