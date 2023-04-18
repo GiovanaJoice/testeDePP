@@ -35,12 +35,6 @@
 <img src="/ReadmeProjeto/homepagefuncional2.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/homepagefuncional3.PNG" alt="Logo" height="">
 
-![Badge](https://img.shields.io/badge/Figma-Design-blueviolet)
-
-
-<img src="/ReadmeProjeto/figma1.PNG" alt="Logo" height="">
-<img src="/ReadmeProjeto/figma2.PNG" alt="Logo" height="">
-<img src="/ReadmeProjeto/figma3.PNG" alt="Logo" height="">
 
 ![Badge](https://img.shields.io/badge/Código-login-blueviolet)
 
