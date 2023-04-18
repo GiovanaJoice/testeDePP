@@ -1,6 +1,6 @@
-SPRINT 01 - PRODUCT BACK LOG (16/03)
+## SPRINT 01 - PRODUCT BACK LOG (16/03)
 
-Metas - O que deveria ser feito nessa sprint?
+## 🎯 Metas - O que deveria ser feito nessa sprint?
 
 1. Atualizar readme.md do repositório. 
 2. Modelar a base de dados no SGBD Mongo. 
