@@ -1,6 +1,6 @@
-## <p align="center"> SPRINT 01 - PRODUCT BACK LOG (16/03) 📝 </p>
+# <p align="center"> SPRINT 01 - PRODUCT BACK LOG (16/03) 📝 </p>
 
-## <img src="/ReadmeProjeto/alvo.gif" alt="Logo" height="58"> Metas - O que deveria ser feito nessa sprint?
+# <img src="/ReadmeProjeto/alvo.gif" alt="Logo" height="58"> Metas - O que deveria ser feito nessa sprint?
 
 1. Atualizar readme.md do repositório. 
 2. Modelar a base de dados no SGBD Mongo. 
@@ -11,7 +11,7 @@
 
 <br/>
 
-## <img src="/ReadmeProjeto/emoticonDaCheckList.png" alt="Logo" height="60"> Checklist - O que conseguimos entregar?  
+# <img src="/ReadmeProjeto/emoticonDaCheckList.png" alt="Logo" height="60"> Checklist - O que conseguimos entregar?  
 
 1. Atualizar readme.md do repositório. ✔️
 2. Modelar a base de dados no SGBD Mongo. ❗
@@ -28,7 +28,7 @@
 
 <br/>
 
-## <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
+# <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 
 ![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
 
