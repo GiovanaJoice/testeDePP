@@ -9,6 +9,8 @@
 5. Revisar o designer do site.
 6. Mockup final.
 
-Checklist - O que conseguimos entregar?
+Checklist - O que conseguimos entregar?  
+
+<img src="/ReadmeProjeto/emoticonDaCheckList.jpg" alt="Logo" height="240">
 
 Resultados:
