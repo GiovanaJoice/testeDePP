@@ -9,6 +9,8 @@
 5. Revisar o designer do site.
 6. Mockup final.
 
+<br/>
+
 ## <img src="/ReadmeProjeto/emoticonDaCheckList.png" alt="Logo" height="60"> Checklist - O que conseguimos entregar?  
 
 1. Atualizar readme.md do repositório. ✔️
@@ -18,10 +20,17 @@
 5. Revisar o designer do site. ✔️
 6. Mockup final. ❗
 
+<br/>
+
 ## 📚 Considerações:
 
 > Nesta sprint conseguimos: definir claramento o tema do nosso projeto e previamente as tecnologias que utilizaríamos; criamos um readme para o perfil da empresa no GitHub de forma satisfatória; entregamos também um protótipo de sistema de login mas que, por hora, ainda não havia sido integrado com o desenvolvimento de telas; moldamos melhor o design e a paleta de cores futuramente utilizadas e conseguimos chegar semi-final do nosso mockup no figma (faltavam alguns poucos acabamentos)
 
+<br/>
 
 ## <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 <img src="/ReadmeProjeto/nossoRep.jpg" alt="Logo" height="">
+<img src="/ReadmeProjeto/figma1.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/figma2.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/figma3.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/modelagem-conceitual-1.PNG" alt="Logo" height="">
