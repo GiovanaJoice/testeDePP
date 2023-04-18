@@ -24,3 +24,4 @@
 
 
 ## <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
+<img src="/ReadmeProjeto/nossoRep.jpg" alt="Logo" height="60">
