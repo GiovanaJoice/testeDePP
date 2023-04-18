@@ -4,13 +4,23 @@
 
 1. Atualizar readme.md do repositório. 
 2. Modelar a base de dados no SGBD Mongo. 
-3. login/cadastro em react com mongodb. 
+3. Login/cadastro em react com mongodb. 
 4. Revisar a paleta de cores. 
 5. Revisar o designer do site.
 6. Mockup final.
 
 ## <img src="/ReadmeProjeto/emoticonDaCheckList.png" alt="Logo" height="60"> Checklist - O que conseguimos entregar?  
 
+1. Atualizar readme.md do repositório. ✔️
+2. Modelar a base de dados no SGBD Mongo. ❗
+3. Login/cadastro em react com mongodb. ✔️
+4. Revisar a paleta de cores. ✔️
+5. Revisar o designer do site. ✔️
+6. Mockup final. ❗
+
+## 📚 Considerações:
+
+> Nesta sprint conseguimos: definir claramento o tema do nosso projeto e previamente as tecnologias que utilizaríamos; criamos um readme para o perfil da empresa no GitHub de forma satisfatória; entregamos também um protótipo de sistema de login mas que, por hora, ainda não havia sido integrado com o desenvolvimento de telas; moldamos melhor o design e a paleta de cores futuramente utilizadas e conseguimos chegar semi-final do nosso mockup no figma (faltavam alguns poucos acabamentos)
 
 
 ## <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
