@@ -39,3 +39,4 @@
 ![Badge](https://img.shields.io/badge/Código-login-blueviolet)
 
 <img src="/ReadmeProjeto/loginfuncional.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/loginfuncional2.PNG" alt="Logo" height="">
