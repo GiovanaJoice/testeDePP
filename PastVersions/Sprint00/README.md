@@ -31,3 +31,10 @@ tarefas de organização, design, front-end e back-end e criamos a logo. Trabalh
 ![Badge](https://img.shields.io/badge/Trello-Organização%20e%20definição-blueviolet)
 
 <img src="/ReadmeProjeto/trello.PNG" alt="Logo" height="">
+
+
+![Badge](https://img.shields.io/badge/Trello-Organização%20e%20definição-blueviolet)
+
+<img src="/ReadmeProjeto/figmav0.1" alt="Logo" height="">
+<img src="/ReadmeProjeto/figmav0.2" alt="Logo" height="">
+<img src="/ReadmeProjeto/figmav0.3" alt="Logo" height="">
