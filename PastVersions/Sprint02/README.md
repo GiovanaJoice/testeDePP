@@ -31,7 +31,9 @@
 
 ![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
 
-<img src="/ReadmeProjeto/nossoRep.jpg" alt="Logo" height="">
+<img src="/ReadmeProjeto/homepagefuncional.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/homepagefuncional2.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/homepagefuncional3.PNG" alt="Logo" height="">
 
 ![Badge](https://img.shields.io/badge/Figma-Design-blueviolet)
 
