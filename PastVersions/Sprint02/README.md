@@ -42,6 +42,6 @@
 <img src="/ReadmeProjeto/figma2.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/figma3.PNG" alt="Logo" height="">
 
-![Badge](https://img.shields.io/badge/BD-Modelagem-blueviolet)
+![Badge](https://img.shields.io/badge/Código-login-blueviolet)
 
-<img src="/ReadmeProjeto/modelagem-conceitual-1.jpg" alt="Logo" height="">
+<img src="/ReadmeProjeto/loginfuncional.PNG" alt="Logo" height="">
