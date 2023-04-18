@@ -33,4 +33,4 @@
 <img src="/ReadmeProjeto/figma1.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/figma2.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/figma3.PNG" alt="Logo" height="">
-<img src="/ReadmeProjeto/modelagem-conceitual-1.PNG" alt="Logo" height="">
+<img src="/ReadmeProjeto/modelagem-conceitual-1.jpg" alt="Logo" height="">
