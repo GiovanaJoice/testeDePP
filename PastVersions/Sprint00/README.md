@@ -28,17 +28,6 @@ tarefas de organização, design, front-end e back-end. Trabalhamos também em u
 
 # <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 
-![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
+![Badge](https://img.shields.io/badge/Trello-Organização%20e%20definição-blueviolet)
 
 <img src="/ReadmeProjeto/nossoRep.jpg" alt="Logo" height="">
-
-![Badge](https://img.shields.io/badge/Figma-Design-blueviolet)
-
-
-<img src="/ReadmeProjeto/figma1.PNG" alt="Logo" height="">
-<img src="/ReadmeProjeto/figma2.PNG" alt="Logo" height="">
-<img src="/ReadmeProjeto/figma3.PNG" alt="Logo" height="">
-
-![Badge](https://img.shields.io/badge/BD-Modelagem-blueviolet)
-
-<img src="/ReadmeProjeto/modelagem-conceitual-1.jpg" alt="Logo" height="">
