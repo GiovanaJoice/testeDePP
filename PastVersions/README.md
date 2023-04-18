@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://img.shields.io/github/issues/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
   <img src="https://img.shields.io/github/forks/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/EmpyreanSupplements/SiteDaLoja?style=for-the-badge"/>
@@ -30,8 +30,10 @@
 </div>
 
 
- <div align="center">
+ 
 ## 🎯 Sobre o projeto:
+
+<div align="center">
 Nós, como grupo de programadores, adotamos o método ágil Scrum para gerenciar nossos projetos de desenvolvimento de software. Com o Scrum, dividimos nosso trabalho em ciclos chamados de "sprints", geralmente com duração de uma ou duas semanas. Em cada sprint, nos comprometemos a entregar um conjunto de funcionalidades testadas e prontas para uso pelo cliente.
 
 Durante o sprint, nos reunimos diariamente para discutir o progresso do trabalho e identificar quaisquer obstáculos que possam estar impedindo o avanço. Ao final de cada sprint, realizamos uma revisão com o cliente para avaliar o que foi entregue e obter feedback valioso para orientar o desenvolvimento futuro.
@@ -48,27 +50,19 @@ Então por isso vamos documentar todas as atividades do projeto aqui pelo GitHub
 
   <summary><h3>📌 Tabela de conteúdos</h3></summary>
   <ol>
-    <li><a href="https://github.com/GiovanaJoice/testeDePP/tree/main/PastVersions/Sprint01">Sprint 01</a></li>
-    <li><a href="#-placar-de-contribuições">Placar de contribuições</a></li>
-    <li><a href="#links-importantes-para-a-construção-do-nosso-projeto">Links importantes para a construção do nosso projeto</a></li>
-    <li><a href="#licença">Licença</a></li>
-    <li><a href="#contribuições">Contribuições</a></li>
-    <li>
-      <a href="#como-executar-a-aplicação">Como executar a aplicação</a>
-      <ul>
-        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-        <li><a href="#instalação">Instalação</a></li>
-      </ul>
-    </li>
+    <li><a href="https://github.com/GiovanaJoice/testeDePP/tree/main/PastVersions/Sprint01">SPRINT 01</a></li>
+    <li><a href="https://github.com/GiovanaJoice/testeDePP/tree/main/PastVersions/Sprint02">SPRINT 02</a></li>
+    <li><a href="https://github.com/GiovanaJoice/testeDePP/tree/main/PastVersions/Sprint03">SPRINT 03</a></li>
+    
   </ol>
   
   
   ## Tecnologias utilizadas 
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-- ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-- <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="20px">
-- <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" height="25px">
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="20px">
+<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" height="25px">
   
