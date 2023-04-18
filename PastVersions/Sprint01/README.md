@@ -30,13 +30,17 @@
 
 ## <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
+![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
 
 <img src="/ReadmeProjeto/nossoRep.jpg" alt="Logo" height="">
 
-[![Repositórfdgdfgdfg](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositó&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
+![Badge](https://img.shields.io/badge/Figma-Design-blueviolet)
+
 
 <img src="/ReadmeProjeto/figma1.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/figma2.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/figma3.PNG" alt="Logo" height="">
+
+![Badge](https://img.shields.io/badge/BD-Modelagem-blueviolet)
+
 <img src="/ReadmeProjeto/modelagem-conceitual-1.jpg" alt="Logo" height="">
