@@ -23,13 +23,13 @@
 
 ## 📚 Considerações:
 
-> Nesta sprint conseguimos: fazer em código uma tela para cadastro e login funcional com firebase, a homepage foi feita em código parcialmente parecida com o esperado no figma, o trello ficou em dia. Tivemos algumas coisas para revisar a respeito da modelagem e do bd funcional, além de precisar melhorar a organização do github.
+> Nesta sprint conseguimos: fazer em código uma tela para cadastro e login funcional com firebase, a homepage foi feita em código parcialmente parecida com o esperado no figma, a homepage também está funcional e já direciona o usuário para o restante das telas que posteriormente serão desenvolvidas, o trello ficou em dia. Tivemos algumas coisas para revisar a respeito da modelagem e do bd funcional, além de precisar melhorar a organização do github.
 
 <br/>
 
 # <img src="/ReadmeProjeto/resultados.gif" alt="Logo" height="70"> Resultados:
 
-![Badge](https://img.shields.io/badge/GitHub-Repositório-blueviolet)
+![Badge](https://img.shields.io/badge/Código-homepage-blueviolet)
 
 <img src="/ReadmeProjeto/homepagefuncional.PNG" alt="Logo" height="">
 <img src="/ReadmeProjeto/homepagefuncional2.PNG" alt="Logo" height="">
