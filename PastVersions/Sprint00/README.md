@@ -30,4 +30,4 @@ tarefas de organização, design, front-end e back-end. Trabalhamos também em u
 
 ![Badge](https://img.shields.io/badge/Trello-Organização%20e%20definição-blueviolet)
 
-<img src="/ReadmeProjeto/nossoRep.jpg" alt="Logo" height="">
+<img src="/ReadmeProjeto/trello.PNG" alt="Logo" height="">
